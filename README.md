@@ -39,4 +39,4 @@ A comprehensive MySQL database project demonstrating CRUD operations, primary ke
 | queries.sql | All CRUD and aggregate queries |
 
 ## Author
-[Your Name]
+[Chirag Kori]
